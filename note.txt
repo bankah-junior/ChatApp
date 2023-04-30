@@ -1,0 +1,9 @@
+1) Socket.io runs on both frontend and backend
+    --> Backend: npm install socket.io
+    --> Frontend: https://www.cdnjs.com/libraries/socket.io
+
+steps
+i) install node packages: npm install socket.io, express, morgan, nodemon
+ii) create a server file eg: server.js [for backend]
+iii) create a server
+iv)  create a js file for the chat eg: chat.js [for frontend]
